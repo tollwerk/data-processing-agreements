@@ -2,7 +2,7 @@
 
 This collection aims to help you with establishing [GDPR](https://www.eugdpr.org/) compliance by concluding the required Data Processing Agreements (DPA) between you and the services processing personal data on your behalf ("Data Processors").
 
-The list is curated by [Joschi Kuphal](https://github.com/jkphl), [Sebastian Greger](https://github.com/sebastiangreger) and [Baltasar Cevc](https://github.com/bcevc) and complements their current [workshop series](https://colloq.io/events/datenschutz-im-web-fallstricke-strategien-risikomanagement-dsgvo) about data protection and ethical design issues. **It is meant as a tool to get a quick entry and first orientation only. It does not replace a thorough and independent check of your individual legal requirements.**
+The list is curated by [Joschi Kuphal](https://github.com/jkphl), [Sebastian Greger](https://github.com/sebastiangreger) and [Baltasar Cevc](https://github.com/bcevc) and complements their current [workshop series](https://colloq.io/events/datenschutz-im-web-fallstricke-strategien-risikomanagement-dsgvo) about data protection and ethical design issues. **⚠ It is meant as a tool to get a quick entry and first orientation only. It does not replace a thorough and independent check of your individual legal requirements. ⚠**
 
 ## Contribute
 

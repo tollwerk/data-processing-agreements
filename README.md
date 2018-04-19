@@ -6,7 +6,7 @@ The list is curated by [Joschi Kuphal](https://github.com/jkphl), [Sebastian Gre
 
 ## Contribute
 
-Please [send in pull requests](https://help.github.com/articles/about-pull-requests/) for updates and additions. For instance, you may suggest additional data processors, resources or URLs to conversations and official statements on the web. Please understand that we can only accept URLs that point to the data processors' official websites or social media profiles (we will not quote any private communications here). Thanks for your support! 🙇
+Please [send in pull requests](https://help.github.com/articles/about-pull-requests/) for updates and additions. For instance, you may suggest additional data processors, resources or URLs to conversations and official statements on the web. Please understand that we can only accept URLs that point to the data processors' official websites or social media profiles (we will only quote non-published information as comments that we have retrieved ourselves first-hand). Thanks for your support! 🙇
 
 ## Alphabetical list
 
